@@ -1,0 +1,14 @@
+{
+    "name": "asus/sistem-informasi-truk",
+    "description": "Sistem Informasi Truk PT. Florindo",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Anggika Wardani",
+            "email": "anggikawardani2610@gmail.com"
+        }
+    ]
+}
